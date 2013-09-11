@@ -53,7 +53,7 @@ fi
 source ~/.profile
 
 # Install ruby from source via ruby-build
-rbenv install $RUBY_VERSION -v
+rbenv install $RUBY_VERSION
 
 # Set system wide
 rbenv global $RUBY_VERSION
