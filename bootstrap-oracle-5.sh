@@ -25,8 +25,8 @@ LIBYAML_SOURCE="http://pyyaml.org/download/libyaml/${LIBYAML_VERSION}.tar.gz"
 
 # Use Oracle Public YUM Server
 if [[ -f "/etc/yum.repos.d/public-yum-el5.repo" ]]; then
-	echo "Removing old public yum configuration files..."
-	rm -f /etc/yum.repos.d/public-yum*.*
+    echo "Removing old public yum configuration files..."
+    rm -f /etc/yum.repos.d/public-yum*.*
 fi
 
 cd /etc/yum.repos.d
