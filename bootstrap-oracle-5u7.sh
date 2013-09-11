@@ -5,7 +5,7 @@
 #    Author: Terry Wang
 #     Email: i (at) terry (dot) im
 #  Homepage: http://terry.im
-#      File: bootstrap-oracle57.sh
+#      File: bootstrap-oracle5u7.sh
 #   Created: 19 June, 2013
 #
 #   Purpose: Bootstrap Ruby & Chef for OL 5.7

@@ -5,10 +5,10 @@
 #    Author: Terry Wang
 #     Email: i (at) terry (dot) im
 #  Homepage: http://terry.im
-#      File: chef-bootstrap.sh
-#   Created: 19 June, 2013
+#      File: bootstrap-oracle-generic.sh
+#   Created: June, 2013
 #
-#   Purpose: Bootstrap Ruby 1.9.3 & Chef on Oracle Linux{5,6}
+#   Purpose: Bootstrap Ruby & Chef for Oracle Linux{5,6}
 #
 # --------------------------------------
 # Exit immediately if any untested command fails
