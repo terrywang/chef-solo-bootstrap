@@ -12,7 +12,7 @@
 #
 # --------------------------------------
 ########### Setup Variables #############
-RUBY_VERSION="1.9.3-p448"
+RUBY_VERSION="1.9.3-p545"
 ########### Setup Variables #############
 
 # Keep system up-to-date
@@ -59,8 +59,8 @@ rbenv install $RUBY_VERSION
 rbenv global $RUBY_VERSION
 
 # Skip to avoid issue CHEF-3933
-# echo "Updating rubygems..."
-# gem update --system
+echo "Updating rubygems..."
+gem update --system --no-ri --no-rdoc
 
 # Install gems
 # rbenv-rehash replaces rbenv rehash
