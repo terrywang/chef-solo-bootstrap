@@ -14,9 +14,9 @@
 # Exit immediately if any untested command fails
 set -e
 ########### Setup Variables #############
-RUBY_VERSION="ruby-1.9.3-p448"
+RUBY_VERSION="ruby-1.9.3-p545"
 RUBY_SOURCE="http://ftp.ruby-lang.org/pub/ruby/1.9/${RUBY_VERSION}.tar.gz"
-LIBYAML_VERSION="yaml-0.1.4"
+LIBYAML_VERSION="yaml-0.1.5"
 LIBYAML_SOURCE="http://pyyaml.org/download/libyaml/${LIBYAML_VERSION}.tar.gz"
 PUBLIC_YUM_OL5="https://public-yum.oracle.com/public-yum-el5.repo"
 PUBLIC_YUM_OL6="https://public-yum.oracle.com/public-yum-ol6.repo"
