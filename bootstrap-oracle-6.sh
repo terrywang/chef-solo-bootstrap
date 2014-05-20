@@ -12,7 +12,7 @@
 #
 # --------------------------------------
 ########### Setup Ruby LibYAML Versions #############
-RUBY_VERSION="ruby-1.9.3-p545"
+RUBY_VERSION="ruby-1.9.3-p547"
 RUBY_SOURCE="http://ftp.ruby-lang.org/pub/ruby/1.9/${RUBY_VERSION}.tar.gz"
 LIBYAML_VERSION="yaml-0.1.5"
 LIBYAML_SOURCE="http://pyyaml.org/download/libyaml/${LIBYAML_VERSION}.tar.gz"
