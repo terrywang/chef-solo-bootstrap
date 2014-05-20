@@ -12,7 +12,7 @@
 #
 # --------------------------------------
 ########### Setup Variables #############
-RUBY_VERSION="1.9.3-p545"
+RUBY_VERSION="1.9.3-p547"
 ########### Setup Variables #############
 
 # Keep system up-to-date
